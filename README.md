@@ -2,4 +2,4 @@
 Zelda-like video game in Unity:
 	movement->	wasd
 	attack	->	spacebar
-	exiti	->	esc
+	exit	->	esc

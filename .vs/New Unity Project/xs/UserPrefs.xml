@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/scripts/boss.cs" Line="123" Column="65" />
+      <File FileName="Assets/scripts/cave.cs" Line="13" Column="13" />
+      <File FileName="Assets/scripts/camera.cs" Line="15" Column="3" />
+      <File FileName="Assets/scripts/Player.cs" Line="15" Column="21" NotebookId="1" />
+      <File FileName="Assets/scripts/sword.cs" Line="27" Column="4" NotebookId="1" />
+      <File FileName="Assets/scripts/environment.cs" Line="18" Column="6" NotebookId="1" />
+      <File FileName="Assets/scripts/winlost.cs" Line="10" Column="16" NotebookId="1" />
+      <File FileName="Assets/scripts/crab.cs" Line="18" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
